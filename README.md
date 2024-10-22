@@ -1,12 +1,14 @@
 # Arianna Giachini - Data Analytics and Data Science Portfolio
 
-![IMG_0022.jpeg]([https://example.com/](https://github.com/arigiachi/Arianna_giachini_data_analytics_portfolio/tree/main/images/IMG_0022.jpeg) "Hello! I'm Arianna Giachini, a passionate scientist researcher with a rich background in data-driven problem solving. For almost 3 years, I worked as a scientist for an early stage startup that was developing cell-cultivated meat. We extracted cells from cows and grew them in the lab! ")
+![Profile Picture]([https://example.com/image.jpg](https://github.com/arigiachi/Arianna_giachini_data_analytics_portfolio/tree/main/images/IMG_0022.jpeg "Hola")
 
-* I've honed my skills in experimental design, hypothesis testing, and diving deep into complex datasets to extract actionable insights. With an unwavering curiosity, I believe in understanding the challenge and leveraging creativity to uncover solutions.
+Hello! I'm Arianna Giachini, a passionate scientist researcher with a rich background in data-driven problem solving. For almost 3 years, I worked as a scientist for an early stage startup that was developing cell-cultivated meat. We extracted cells from cows and grew them in the lab! 
 
-* My diverse experience in the biotech landscape has equipped me with unique perspectives and methodologies, which I'm keen to apply beyond the lab. I want to use my Github page to leverage advanced analytical techniques and robust data management practices to extract actionable insights across diverse domains.
+I've honed my skills in experimental design, hypothesis testing, and diving deep into complex datasets to extract actionable insights. With an unwavering curiosity, I believe in understanding the challenge and leveraging creativity to uncover solutions.
 
-* Let's connect and explore collaborative possibilities!
+My diverse experience in the biotech landscape has equipped me with unique perspectives and methodologies, which I'm keen to apply beyond the lab. I want to use my Github page to leverage advanced analytical techniques and robust data management practices to extract actionable insights across diverse domains.
+
+Let's connect and explore collaborative possibilities!
 
 
 
