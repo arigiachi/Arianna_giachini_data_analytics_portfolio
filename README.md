@@ -38,7 +38,8 @@ Let's connect and explore collaborative possibilities!
 
      
   
-* **Link to Methodology and Analysis Framework:** (./framework_Methodology.pdf)
+* **Link to Methodology and Analysis Framework:** (./Framework_Methodology.pdf
+
 
 
 
