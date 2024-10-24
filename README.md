@@ -11,7 +11,7 @@ Let's connect and explore collaborative possibilities!
 
 
 ## Project 1: Starting a Tourism Agency in Buenos Aires, Argentina ![](images/IMG_0022.jpeg)
-* *Context:* My friend Gabriel Tupaj is an exceptional tourist guide, frequently hired by travel agencies to lead tours in Buenos Aires. Passionate about his work, Gabriel aspires to start his own tourism agency but is unsure of the steps needed to make it successful.
+* **Context:** My friend Gabriel Tupaj is an exceptional tourist guide, frequently hired by travel agencies to lead tours in Buenos Aires. Passionate about his work, Gabriel aspires to start his own tourism agency but is unsure of the steps needed to make it successful.
   
 * **Goal:** Develop actionable insights from tourist data to understand market demand, seasonal patterns, and visitor preferences in Buenos Aires' tourism sector.
   
