@@ -38,8 +38,7 @@ Let's connect and explore collaborative possibilities!
 
      
   
-* [Link to Methodology and Analysis Framework]([./framework-and-Methodology.pdf](https://github.com/arigiachi/Arianna_giachini_data_analytics_portfolio/blob/main/framework_methodology%20.pdf)
-
+* [Link to Methodology and Analysis Framework]([./Framework-Methodology .pdf]
 
 
 
