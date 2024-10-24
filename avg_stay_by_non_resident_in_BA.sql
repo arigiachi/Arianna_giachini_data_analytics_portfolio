@@ -1,6 +1,6 @@
 /*
 File: avg_stay_by_non_resident_in_BA.sql
-Description: Analysis of non-resident arrivals to Buenos Aires by season
+Description: Analysis of trip duration depending on season and country of residence
 Data source: argentina-tourism-trends.NonResidentsArrivalsBA.Non_Residents_Arrivals_by_Country_date
 Author: Arianna Giachini
 Date: August 2024
