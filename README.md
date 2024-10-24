@@ -1,4 +1,4 @@
-# Arianna Giachini - Data Analytics and Data Science Portfolio
+# Data Analytics and Data Science Portfolio
 
 Hello! I'm Arianna Giachini, a passionate scientist researcher with a rich background in data-driven problem solving. For almost 3 years, I worked as a scientist for an early stage startup that was developing cell-cultivated meat. We extracted cells from cows and grew them in the lab! 
 
