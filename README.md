@@ -20,19 +20,26 @@ Let's connect and explore collaborative possibilities!
   - Tourists and overnight stays by travel purpose, destination province, and visited destinations(original file name: Turistas y pernoctes según motivo de viaje, por provincia de destino y destinos visitados)
     
 * *Key Results:*
-    - *Finding 1:* Seasonal Patterns (2014- July 2024)
+    - *Finding 1:* Market Share Distribution (2014 - July 2024)
+      - Brazil dominates with 27% of total visitors, followed by Europe and other American countries (excluding USA, Canada, Uruguay, Bolivia, and Paraguay) each representing 21%, collectively accounting for approximately 70% of total visitor volume.
+      - Mid-tier markets of USA & Canada (13%) and Chile (10%) represent 23% of total visitors, followed by neighboring countries Bolivia, Paraguay, and Uruguay jointly contributing 8% to total arrivals.
+     
+    -  *Finding 2:* Entry Motives to Buenos Aires Airport (2014- July 2024)
+      - Vacation comprises approximately 50% of total arrivals, followed by family and friend visits at 27%, business travel at 18%, and other purposes accounting for 5% of total visitor volume.
+        
+    - *Finding 3:* Seasonal Patterns (2014- July 2024)
       - The analysis of non-resident arrivals at Buenos Aires Airport reveals distinct seasonal patterns in tourist flows. The significant summer surge (22.29%) compared to other seasonal transitions highlights the city's strong appeal as a summer destination.
       - The volume difference between peak and off-peak seasons varies significantly by country. Clear distinction between long-haul and regional travel patterns
       - Summer dominates for long-distance travelers (Europe, USA/Canada), possibly due to climate considerations. 
       - Regional travelers (especially Brazilians) prefer winter visits, possibly due to climate considerations
-    - *Finding 2:* Entry Motives to Buenos Aires Airport (2014- July 2024)
-    - *Finding 3:* Average Duration of Tourist Visits to Buenos Aires (2014-2024)
+  
+    - *Finding 4:* Average Duration of Tourist Visits to Buenos Aires (2014-2024)
+      - There is a clear relationship between trip duration and country of residency. The further the country of residency from Argentina, the longer the trip duration. Europeans stay 4-5x longer than regional visitors. Long-haul travelers generally stay 2-3x longer than regional visitors. 
+
      
   
 * *Link to Methodology and Analysis Framework:*
 
-
-## Project 2:  Hola 
 
 
 
