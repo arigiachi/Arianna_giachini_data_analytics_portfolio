@@ -25,11 +25,9 @@ Let's connect and explore collaborative possibilities!
       - The volume difference between peak and off-peak seasons varies significantly by country. Clear distinction between long-haul and regional travel patterns
       - Summer dominates for long-distance travelers (Europe, USA/Canada), possibly due to climate considerations. 
       - Regional travelers (especially Brazilians) prefer winter visits, possibly due to climate considerations
-    - *Finding 2:*
-    - *Finding 3:*
-    - *Finding 4:*
+    - *Finding 2:* Entry Motives to Buenos Aires Airport (2014- July 2024)
+    - *Finding 3:* Average Duration of Tourist Visits to Buenos Aires (2014-2024)
      
-
   
 * *Link to Methodology and Analysis Framework:*
 
