@@ -13,19 +13,19 @@ Let's connect and explore collaborative possibilities!
 ## Project 1: Starting a Tourism Agency in Buenos Aires, Argentina ![](images/IMG_0022.jpeg)
 * *Context:* My friend Gabriel Tupaj is an exceptional tourist guide, frequently hired by travel agencies to lead tours in Buenos Aires. Passionate about his work, Gabriel aspires to start his own tourism agency but is unsure of the steps needed to make it successful.
   
-* *Goal:* Develop actionable insights from tourist data to understand market demand, seasonal patterns, and visitor preferences in Buenos Aires' tourism sector.
+* **Goal:** Develop actionable insights from tourist data to understand market demand, seasonal patterns, and visitor preferences in Buenos Aires' tourism sector.
   
-* *Datasets used:* Analysis based on public datasets provided by Argentina's Tourism Information System (SINTA - Sistema de Información Turística de la Argentina). Names of datasets:
+* **Datasets used:** Analysis based on public datasets provided by Argentina's Tourism Information System (SINTA - Sistema de Información Turística de la Argentina). Names of datasets:
   - Non-resident tourists, overnight stays, and average monthly stay duration at Ezeiza and Aeroparque airports (original file name: Turistas no residentes, pernoctaciones y estadía media mensual en Ezeiza y Aeroparque)
   - Tourists and overnight stays by travel purpose, destination province, and visited destinations(original file name: Turistas y pernoctes según motivo de viaje, por provincia de destino y destinos visitados)
     
-* *Key Results:*
+* **Key Results:**
     - *Finding 1:* Market Share Distribution (2014 - July 2024)
       - Brazil dominates with 27% of total visitors, followed by Europe and other American countries (excluding USA, Canada, Uruguay, Bolivia, and Paraguay) each representing 21%, collectively accounting for approximately 70% of total visitor volume.
       - Mid-tier markets of USA & Canada (13%) and Chile (10%) represent 23% of total visitors, followed by neighboring countries Bolivia, Paraguay, and Uruguay jointly contributing 8% to total arrivals.
      
     -  *Finding 2:* Entry Motives to Buenos Aires Airport (2014- July 2024)
-      - Vacation comprises approximately 50% of total arrivals, followed by family and friend visits at 27%, business travel at 18%, and other purposes accounting for 5% of total visitor volume.
+       - Vacation comprises approximately 50% of total arrivals, followed by family and friend visits at 27%, business travel at 18%, and other purposes accounting for 5% of total visitor volume.
         
     - *Finding 3:* Seasonal Patterns (2014- July 2024)
       - The analysis of non-resident arrivals at Buenos Aires Airport reveals distinct seasonal patterns in tourist flows. The significant summer surge (22.29%) compared to other seasonal transitions highlights the city's strong appeal as a summer destination.
@@ -38,7 +38,7 @@ Let's connect and explore collaborative possibilities!
 
      
   
-* *Link to Methodology and Analysis Framework:*
+* **Link to Methodology and Analysis Framework:**
 
 
 
