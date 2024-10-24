@@ -20,9 +20,11 @@ Let's connect and explore collaborative possibilities!
   - Tourists and overnight stays by travel purpose, destination province, and visited destinations(original file name: Turistas y pernoctes según motivo de viaje, por provincia de destino y destinos visitados)
     
 * *Key Results:*
-    - *Finding 1:*
-      - hola
-      - qie tal 
+    - *Finding 1:* Seasonal Patterns (2014- July 2024)
+      - The analysis of non-resident arrivals at Buenos Aires Airport reveals distinct seasonal patterns in tourist flows. The significant summer surge (22.29%) compared to other seasonal transitions highlights the city's strong appeal as a summer destination.
+      - The volume difference between peak and off-peak seasons varies significantly by country. Clear distinction between long-haul and regional travel patterns
+      - Summer dominates for long-distance travelers (Europe, USA/Canada), possibly due to climate considerations. 
+      - Regional travelers (especially Brazilians) prefer winter visits, possibly due to climate considerations
     - *Finding 2:*
     - *Finding 3:*
     - *Finding 4:*
