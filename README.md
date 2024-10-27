@@ -34,11 +34,28 @@ Let's connect and explore collaborative possibilities!
       - Regional travelers (especially Brazilians) prefer winter visits, possibly due to climate considerations
   
     - *Finding 4:* Average Duration of Tourist Visits to Buenos Aires (2014-2024)
-      - There is a clear relationship between trip duration and country of residency. The further the country of residency from Argentina, the longer the trip duration. Europeans stay 4-5x longer than regional visitors. Long-haul travelers generally stay 2-3x longer than regional visitors. 
-
-     
+      - There is a clear relationship between trip duration and country of residency. The further the country of residency from Argentina, the longer the trip duration. Europeans stay 4-5x longer than regional visitors. Long-haul travelers generally stay 2-3x longer than regional visitors.
+       
   
 * [Link to Methodology and Analysis Framework](./Framework-Methodology .pdf)
+
+
+
+## Project 1: Netflix Subscription Patterns: Global Market Analysis ![](images/IMG_0022.jpeg)
+* **Context:** I have found various analyses online regarding Netflix's subscriber demographics and market share. However, I haven't come across any analysis focusing on Netflix's different subscription tiers.
+  
+* **Goal:** Analyze how device usage, geographical location, and pricing strategies affect subscription choices and retention across different markets and recommend Strategic pricing adjustments in different markets. Some of the questions I want to answer with this analysis include:
+  1. Does device usage influence subscription plan selection?
+  2. Is there a correlation between country of origin and subscription plan choice?
+  3. What is the average duration of Premium subscriptions compared to Standard ones?
+  4. Which countries show the shortest and longest subscription retention rates?
+
+* **Datasets used:** Analysis based on 
+    
+* **Key Results:**
+    - *Finding 1:*
+    - *Finding 2:*
+    - *Finding 3:*
 
 
 
