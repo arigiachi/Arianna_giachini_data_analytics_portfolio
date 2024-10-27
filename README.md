@@ -41,7 +41,7 @@ Let's connect and explore collaborative possibilities!
 
 
 
-## Project 1: Netflix Subscription Patterns: Global Market Analysis ![](images/IMG_0022.jpeg)
+## Project 1: Netflix Subscription Patterns: Global Market Analysis ![](images/netflix.jpg)
 * **Context:** I have found various analyses online regarding Netflix's subscriber demographics and market share. However, I haven't come across any analysis focusing on Netflix's different subscription tiers.
   
 * **Goal:** Analyze how device usage, geographical location, and pricing strategies affect subscription choices and retention across different markets and recommend Strategic pricing adjustments in different markets. Some of the questions I want to answer with this analysis include:
