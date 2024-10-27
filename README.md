@@ -50,7 +50,7 @@ Let's connect and explore collaborative possibilities!
   3. What is the average duration of Premium subscriptions compared to Standard ones?
   4. Which countries show the shortest and longest subscription retention rates?
 
-* **Datasets used:** Analysis based on 
+* **Datasets used:** This analysis uses a synthetic dataset from Kaggle that simulates a hypothetical Netflix userbase. While the data does not represent Netflix's actual subscribers, it serves as a theoretical model for analytical purposes. https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset/data
     
 * **Key Results:**
     - *Finding 1:*
