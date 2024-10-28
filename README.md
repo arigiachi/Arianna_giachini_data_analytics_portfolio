@@ -53,10 +53,10 @@ Let's connect and explore collaborative possibilities!
 * **Datasets used:** This analysis uses a synthetic dataset from Kaggle that simulates a hypothetical Netflix userbase. While the data does not represent Netflix's actual subscribers, it serves as a theoretical model for analytical purposes. https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset/data
     
 * **Key Results:**
-    - *Finding 1:*
-    - *Finding 2:*
-    - *Finding 3:*
+    - *Finding 1:* The median subscription duration is 10-11 months for all types of subscription. Data suggests that the subscription type (Basic, Premium, or Standard) has little to no correlation with how long customers maintain their subscriptions. 
 
-
-
-
+    - *Finding 2:* There is no significant difference in how long users maintain their Netflix subscriptions based on their preferred streaming device.
+      
+    - *Finding 3:* There is no significant difference between the subscription length and the geographical location. However, there are distinct geographical patterns when it comes to susbcription types. 
+ 
+* [Link to Methodology and Analysis Framework](./netflix_framework_methodology (1).pdf)
